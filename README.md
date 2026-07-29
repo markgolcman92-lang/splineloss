@@ -47,7 +47,4 @@ The meta-network learns different loss shapes for different training phases:
 | **Mid** | Steep in high-error region | Push hard on mistakes |
 | **Late** | Flattened | Fine-tune without overreacting |
 
-## Requirements
 
-```bash
-pip install torch numpy matplotlib
